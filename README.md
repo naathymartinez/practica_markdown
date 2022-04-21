@@ -27,5 +27,5 @@ Lista no numerada
 
 -Primer item
 
-    *Hola
-    *Hola
+    -Hola
+    -Hola
