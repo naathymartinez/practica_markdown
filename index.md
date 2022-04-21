@@ -1,6 +1,6 @@
 # Mi primero repositorio en Github
 
-[Sitio de la Universidad de Costa Rica] (https://www.ucr.ac.cr/)
+.[Sitio de la Universidad de Costa Rica] (https://www.ucr.ac.cr/)
 
 Logo de la UCR
 
